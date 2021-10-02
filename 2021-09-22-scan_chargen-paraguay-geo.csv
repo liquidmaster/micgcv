@@ -1,0 +1,4 @@
+"timestamp","ip","protocol","port","hostname","tag","size","asn","geo","region","city","naics","sic","sector"
+"2021-09-22 06:07:54","181.120.216.5","udp",19,"pool-5-216-120-181.telecel.com.py","chargen",,23201,"PY","ASUNCION","ASUNCION",,,
+"2021-09-22 07:30:30","170.245.132.34","udp",19,,"chargen",,270096,"PY","CORDILLERA","CARAGUATAY",,,
+"2021-09-22 08:14:47","45.239.45.192","udp",19,"192-45-239-45.gointer.net.py","chargen",,266858,"PY","GUAIRA","VILLARRICA",,,
